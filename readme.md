@@ -3,7 +3,7 @@
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 2rem; padding: 2rem;">
   <div style="flex: 1;">
     <ul style=" list-style: none; padding: 0; font-size: 1.2rem; line-height: 2;">
-      <li>🖥️ My <a href="https://khuswant18.github.io/PortFolio/" target="_blank">Portfolio</a></li>
+      <li>🖥️ My <a href="https://khuswant18.github.io/Portfolio/" target="_blank">Portfolio</a></li>
       <li>🌐 Frontend Developer</li>
       <li>💡 Problem Solver</li>
       <li>⭐ 200+ DSA Questions on Leetcode</li>
