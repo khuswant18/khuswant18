@@ -1,20 +1,15 @@
 <h2>👋 Welcome to my profile! I'm Khuswant Rajpurohit:</h2>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
-  <!-- Text Info -->
-  <div style="text-align: left; font-size: 18px;">
-    <p>🖥️ My <a href="https://khuswant18.github.io/PortFolio/" target="_blank">PortFolio</a></p>
-    <p>🌐 Frontend Developer</p>
-    <p>💡 Problem Solver</p>
-    <p>⭐ 200+ DSA Questions on Leetcode</p>
-    <p>📽️ Content Creator</p>
-    <p>🗣️ Public Speaker</p>
-  </div>
-
-  <!-- Image -->
-  <img height="300" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" alt="animated gif" />
+<div align="center">
+  <img height="500" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250406%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250406T124801Z&X-Amz-Expires=300&X-Amz-Signature=2b9908d5a14937ba4dda2724156869a0253182d832464b5c029fd1ab79e2839d&X-Amz-SignedHeaders=host"  />
 </div>
 
+- 🖥️ My <a href="https://khuswant18.github.io/PortFolio/">PortFolio</a>
+- 🌐 Frontend Developer
+- 💡 Problem Solver
+- ⭐ 200+ DSA Questions on Leetcode
+- 📽️ Content Creator
+- 🗣️ Public Speaker
 <br>
 <br>
 <h1 align="left">Socials</h1>
@@ -76,7 +71,8 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khuswant18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
-`
+
+###
 
 ###
 
