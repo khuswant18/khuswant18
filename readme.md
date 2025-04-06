@@ -1,18 +1,10 @@
-👋 Welcome to my profile! I'm Sarthak Sharma, a versatile professional:
+👋 Welcome to my profile! I'm Khuswant Rajpurohit:
 
-- 🌐 Full Stack Web Developer
+- 🌐 Frontend Developer
 - 🎨 UI/UX Designer
-- 🎥 Made 400k+ YouTube Channel
-- 💻 Mentored 5000+ Students
-- 💼 Freelancer
 - 💡 Problem Solver
-- ⭐ 5-Star JAVA Programmer
-- 📽️ Part-time Video Editor
-- 🗣️ Skilled Public Speaker
+- ⭐ 200+ DSA Questions on Leetcode
+- 📽️ Content Creator
+- 🗣️ Public Speaker
 
-Feel free to connect via email at "ssarthak770@gmail.com." Let's collaborate and create something amazing! 😊🚀
-
-<!---
-saarthack/saarthack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Feel free to connect via email at "khuswantrajpurohit18@gmail.com" Let's collaborate and create something amazing! 😊🚀
