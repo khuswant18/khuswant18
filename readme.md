@@ -2,7 +2,7 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 2rem; padding: 2rem;">
   <div style="flex: 1;">
-    <ul style="list-style: none; padding: 0; font-size: 1.2rem; line-height: 2;">
+    <ul style=" list-style: none; padding: 0; font-size: 1.2rem; line-height: 2;">
       <li>🖥️ My <a href="https://khuswant18.github.io/PortFolio/" target="_blank">PortFolio</a></li>
       <li>🌐 Frontend Developer</li>
       <li>💡 Problem Solver</li>
@@ -12,7 +12,7 @@
     </ul>
   </div>
   <div style="flex: 1; text-align: right;">
-    <img height="400" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250406%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250406T124801Z&X-Amz-Expires=300&X-Amz-Signature=2b9908d5a14937ba4dda2724156869a0253182d832464b5c029fd1ab79e2839d&X-Amz-SignedHeaders=host" alt="GIF" />
+    <img height="400" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250406%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250406T124801Z&X-Amz-Expires=300&X-Amz-Signature=2b9908d5a14937ba4dda2724156869a0253182d832464b5c029fd1ab79e2839d&X-Amz-SignedHeaders=host" alt="GIF" />  
   </div>
 </div>
 
@@ -43,14 +43,10 @@
 
 ###
   </a>
-
 </div>
 
-
-
-###
 <br>
-<br>
+
 <h1 align="left">Tech Stack</h1>
 
 ###
