@@ -1,7 +1,7 @@
-<h2>👋 Welcome to my profile! I'm Khuswant Rajpurohit:</h2>
+<h1>👋 Welcome to my profile! I'm Khuswant Rajpurohit:</h1>
 
 <div align="center">
-  <img height="500" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250406%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250406T124801Z&X-Amz-Expires=300&X-Amz-Signature=2b9908d5a14937ba4dda2724156869a0253182d832464b5c029fd1ab79e2839d&X-Amz-SignedHeaders=host"  />
+  <img height="400" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250406%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250406T124801Z&X-Amz-Expires=300&X-Amz-Signature=2b9908d5a14937ba4dda2724156869a0253182d832464b5c029fd1ab79e2839d&X-Amz-SignedHeaders=host"  />
 </div>
 
 - 🖥️ My <a href="https://khuswant18.github.io/PortFolio/">PortFolio</a>
