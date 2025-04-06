@@ -1,27 +1,49 @@
 <h1>👋 Welcome to my profile! I'm Khuswant Rajpurohit:</h1>
 
-<div align="center">
-  <img height="400" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250406%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250406T124801Z&X-Amz-Expires=300&X-Amz-Signature=2b9908d5a14937ba4dda2724156869a0253182d832464b5c029fd1ab79e2839d&X-Amz-SignedHeaders=host"  />
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 2rem; padding: 2rem;">
+  <div style="flex: 1;">
+    <ul style="list-style: none; padding: 0; font-size: 1.2rem; line-height: 2;">
+      <li>🖥️ My <a href="https://khuswant18.github.io/PortFolio/" target="_blank">PortFolio</a></li>
+      <li>🌐 Frontend Developer</li>
+      <li>💡 Problem Solver</li>
+      <li>⭐ 200+ DSA Questions on Leetcode</li>
+      <li>📽️ Content Creator</li>
+      <li>🗣️ Public Speaker</li>
+    </ul>
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img height="400" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250406%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250406T124801Z&X-Amz-Expires=300&X-Amz-Signature=2b9908d5a14937ba4dda2724156869a0253182d832464b5c029fd1ab79e2839d&X-Amz-SignedHeaders=host" alt="GIF" />
+  </div>
 </div>
 
-- 🖥️ My <a href="https://khuswant18.github.io/PortFolio/">PortFolio</a>
-- 🌐 Frontend Developer
-- 💡 Problem Solver
-- ⭐ 200+ DSA Questions on Leetcode
-- 📽️ Content Creator
-- 🗣️ Public Speaker
 <br>
 <br>
 <h1 align="left">Socials</h1>
 
 ###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+<div align="left" style="display: flex; justify-content: center; gap: 10px;">
+  <a href="https://www.linkedin.com/in/khuswant-rajpurohit-b749ba30a/">
+  <img  src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
+  </a>
+  
+
+  <a href="https://www.youtube.com/@KhuswantRajpurohit">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+
+  <a href="https://www.instagram.com/khuswant_purohit_/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+
+  <a href="https://github.com/khuswant18"> 
+  <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
+
+###
+  </a>
+
 </div>
 
 
