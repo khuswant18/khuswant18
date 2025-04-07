@@ -3,7 +3,7 @@
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 2rem; padding: 2rem;">
   <div style="flex: 1;">
     <ul style=" list-style: none; padding: 0; font-size: 1.2rem; line-height: 2;">
-      <li>🖥️ My <a href="https://khuswant18.github.io/PortFolio/" target="_blank">PortFolio</a></li>
+      <li>🖥️ My <a href="https://khuswant18.github.io/Portfolio/" target="_blank">Portfolio</a></li>
       <li>🌐 Frontend Developer</li>
       <li>💡 Problem Solver</li>
       <li>⭐ 200+ DSA Questions on Leetcode</li>
@@ -35,10 +35,6 @@
   <a href="https://www.instagram.com/khuswant_purohit_/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-
-  <a href="https://github.com/khuswant18"> 
-  <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
 ###
