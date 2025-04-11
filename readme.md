@@ -1,58 +1,48 @@
-<h1>👋 Welcome to my profile! I'm Khuswant Rajpurohit:</h1>
+## Hi 👋, I'm Khuswant Rajpurohit
+## 🚀 Frontend Developer | React.js | Tailwind CSS | JavaScript | Building Interactive UI/UX
+
+<div align="center">
+  <img height="500" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif"  />
+</div>
 
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 2rem; padding: 2rem;">
   <div style="flex: 1;">
     <ul style=" list-style: none; padding: 0; font-size: 1.2rem; line-height: 2;">
-      <li>🖥️ My <a href="https://khuswant18.github.io/Portfolio/" target="_blank">Portfolio</a></li>
-      <li>🌐 Frontend Developer</li>
-      <li>💡 Problem Solver</li>
-      <li>⭐ 200+ DSA Questions on Leetcode</li>
-      <li>📽️ Content Creator</li>
-      <li>🗣️ Public Speaker</li>
+      <li>🌐 Frontend Developer with a Passion for Clean Code </li>
+      <li>🖥️ Building Interactive UIs with React & Tailwind </li>
+      <li>💡 Creative Problem Solver & Fast Learner </li>
+      <li>💻 Built Multiple Responsive Web Apps with React</li>
+      <li>🚀 Contributor to Open Source & Frontend Projects </li>
+      <li>🎯 Specialized in Modern UI/UX with Tailwind CSS </li>
     </ul>
   </div>
-  <div style="flex: 1; text-align: right;">
-    <img height="400" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250406%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250406T124801Z&X-Amz-Expires=300&X-Amz-Signature=2b9908d5a14937ba4dda2724156869a0253182d832464b5c029fd1ab79e2839d&X-Amz-SignedHeaders=host" alt="GIF" />  
-  </div>
-</div>
 
-<br>
-<br>
+
+
+  
+ 
+ 
+
 <h1 align="left">Socials</h1>
 
-###
-
 <div align="left" style="display: flex; justify-content: center; gap: 10px;">
-  <a href="https://www.linkedin.com/in/khuswant-rajpurohit-b749ba30a/">
-  <img  src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
+  <a href="https://www.linkedin.com/in/rajatrsrivastav/">
+  <img height="50" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"  />
   </a>
-  
-
-  <a href="https://www.youtube.com/@KhuswantRajpurohit">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-
-  <a href="https://www.instagram.com/khuswant_purohit_/">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-  </a>
+  <a href="https://discordapp.com/users/rocketleague02377">
+  <img height="50" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif"  />
 </div>
 
 <br>
 
 <h1 align="left">Tech Stack</h1>
 
-###
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img height="50" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img height="50" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img height="50" src="https://private-user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQxMDUwMzUsIm5iZiI6MTc0NDEwNDczNSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjYtMjlmZDYyODYtNGU3Yi00ZDZjLTgxOGYtYzQ3NjVkNWUzOWE5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDA4VDA5MzIxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYwMmI3NTM3N2NmODdkMWJlZWVjODRhNWMwMWI4MTdkMDYwMDMwZjc2MWYwNDc0Yjg1NjI5MmViOGVmZWYwZjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.zL12NMCvoI4N8B6oB_K1IySOnZjuDXxdgmXbkHu-aAc"/>  
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
@@ -60,34 +50,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img height="50" src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img height="50" src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img height="50" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img height="50" src="https://private-user-images.githubusercontent.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbfa.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQxMDUwMzUsIm5iZiI6MTc0NDEwNDczNSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0NDEtMWE3OTdmNDYtZWZlNC00MWU2LTllNzUtNTMwM2UxYmJjYmZhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDA4VDA5MzIxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWViOWZiOTg5ZjlhMmI0NTNkMDViOGM2NTY3YmVjZmZhMWI0ZmFkMmVjYmE5ZjI4MmZkMjhmNTA4ZDhmN2JjM2QmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.SXFm1TtAO9NuBZGIihpkyJ1bI1wXKHEirH2pp5-hum4"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img height="50" src="https://private-user-images.githubusercontent.com/74038190/238200431-3c16d4f2-b757-4c70-8f42-43d5dddd2c36.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQxMDUwMzUsIm5iZiI6MTc0NDEwNDczNSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MzEtM2MxNmQ0ZjItYjc1Ny00YzcwLThmNDItNDNkNWRkZGQyYzM2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDA4VDA5MzIxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM0YWM1ZDY4NzMyZWM5YWZjNWU5NDA2ZDY1ZWJjY2ExMzgyYTdlNTY4ZWI5YjUxMjk3OTI5MDFlODdjYTQwYTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.N0Q-0gRn_Uyh57LRujOr54Nm3DVTMKXLwdJ_Xio2Svs"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img height="50" src="https://private-user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQxMDUwMzUsIm5iZiI6MTc0NDEwNDczNSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA2MjAtMzk4YjE5YjEtOWFhZS00YzFmLThiYzAtZDE3MmEyYzA4ZDY4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDA4VDA5MzIxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTEwM2RhZDk0M2IyNjQ4NGE1NTQ3NmQ4MWZlMTRjY2NjM2YxNjMyMWI3MTliM2U3MDQ0Mzg4ODI0N2I3ZGU2NTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.al8u1M7UZtpEPcpWGpKzRQR1Hr5AujrxsSKZH5aUeAc"/>
 </div>
 
-
-###
-
-
-
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=khuswant18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> -->
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khuswant18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>
-
-###
-
-###
-
-Feel free to connect via email at "khuswantrajpurohit18@gmail.com" Let's collaborate and create something amazing! 😊🚀
+Feel free to connect via email at "rajatrsrivastav810@gmail.com" Let's collaborate and create something amazing! 😊🚀
