@@ -1,10 +1,6 @@
 ## Hi 👋, I'm Khuswant Rajpurohit
 ## 🚀 Frontend Developer | React.js | Tailwind CSS | JavaScript | Building Interactive UI/UX
 
-<div align="center">
-  <img height="500" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif"  />
-</div>
-
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 2rem; padding: 2rem;">
   <div style="flex: 1;">
     <ul style=" list-style: none; padding: 0; font-size: 1.2rem; line-height: 2;">
