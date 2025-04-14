@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Khuswant Rajpurohit
-## 🚀 Frontend Developer | React.js | Tailwind CSS | JavaScript | Building Interactive UI/UX
+## 🚀 Frontend Developer | React.js | Tailwind CSS | JavaScript | Building Interactive Web Application
 
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 2rem; padding: 2rem;">
   <div style="flex: 1;">
@@ -22,7 +22,7 @@
 <h1 align="left">Socials</h1>
 
 <div align="left" style="display: flex; justify-content: center; gap: 10px;">
-  <a href="https://www.linkedin.com/in/rajatrsrivastav/">
+  <a href="https://www.linkedin.com/in/khuswant-rajpurohit-b749ba30a/">
   <img height="50" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"  />
   </a>
   <a href="https://discordapp.com/users/rocketleague02377">
