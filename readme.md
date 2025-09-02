@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Khuswant Rajpurohit
-## 🚀 Frontend Developer | React.js | Tailwind CSS | JavaScript | Building Interactive Web Application
+## 🚀 Full-Stack Developer
 
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 2rem; padding: 2rem;">
   <div style="flex: 1;">
