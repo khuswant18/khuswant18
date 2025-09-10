@@ -4,7 +4,7 @@
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 2rem; padding: 2rem;">
   <div style="flex: 1;">
     <ul style=" list-style: none; padding: 0; font-size: 1.2rem; line-height: 2;">
-      <li>🌐 Frontend Developer with a Passion for Clean Code </li>
+      <li>🌐 FullStack Developer with a Passion for Clean Code </li>
       <li>🖥️ Building Interactive UIs with React & Tailwind </li>
       <li>💡 Creative Problem Solver & Fast Learner </li>
       <li>💻 Built Multiple Responsive Web Apps with React</li>
