@@ -1,10 +1,6 @@
 # 👋 Hi, I'm Khuswant Rajpurohit  
 ## 🚀 Full-Stack Developer | UI/UX Enthusiast  
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="200"/>
-</p>
-
 ### 💡 About Me  
 - 🌐 Passionate **Full-Stack Developer** with a focus on writing clean, scalable code  
 - 🖥️ Building **interactive UIs** with React, Next.js & Tailwind CSS  
@@ -12,9 +8,6 @@
 - 📱 Experienced in crafting **responsive, user-friendly web apps**  
 - 🚀 Contributor to **open-source** and frontend projects  
 - 🎯 Specialized in **modern UI/UX design systems** with Tailwind CSS  
-
-# 💫 About Me:
-I'm a FullStack Developer with a Passion for Clean Code <br>       Building Interactive UIs with React & Tailwind <br>     Creative Problem Solver & Fast Learner <br>       Built Multiple Responsive Web Apps with React<br>       Contributor to Open Source & Frontend Projects <br>      Specialized in Modern UI/UX with Tailwind CSS</li>
 
 
 ## 🌐 Socials:
