@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Khuswant Rajpurohit  
-## 🚀 Full-Stack Developer | UI/UX Enthusiast  
+## 🚀 Full-Stack Developer
 
 ### 💡 About Me  
 - 🌐 Passionate **Full-Stack Developer** with a focus on writing clean, scalable code  
