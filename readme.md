@@ -7,7 +7,7 @@
 ## 🚀 Full-Stack Developer & Problem Solver  
 
 🔭 Check my portfolio at **coming soon..**  
-🌱 Currently learning **Web3 + AI + scalable backend systems**  
+🌱 Currently learning **AI + scalable backend systems**  
 👨‍💻 All of my projects are available on my GitHub  
 📝 Creative Problem Solver & Open-Source Explorer  
 💬 Ask me about React.js, TypeScript, Node.js, Databases  
