@@ -41,18 +41,6 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@khuswantrajpurohit) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khuswantrajpurohit18@gmail.com)
 
----
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"> &ensp;<b> GitHub Stats </b>  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align=center>
-  <img width=330 src="https://github-readme-stats.vercel.app/api/top-langs/?username=khuswant18&theme=discord_old_blurple&hide_border=false&layout=compact" />
-  <img width=410 src="https://github-readme-stats.vercel.app/api?username=khuswant18&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=true" />
-  <img width=430 src="https://nirzak-streak-stats.vercel.app/?user=khuswant18&theme=discord_old_blurple&hide_border=false" />
-</div>
-
----
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
