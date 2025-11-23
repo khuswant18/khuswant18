@@ -6,7 +6,6 @@
 
 ## 🚀 Full-Stack Developer & Problem Solver  
 
-🔭 Check my portfolio at **coming soon..**  
 🌱 Currently learning **AI + scalable backend systems**  
 👨‍💻 All of my projects are available on my GitHub  
 📝 Creative Problem Solver & Open-Source Explorer  
