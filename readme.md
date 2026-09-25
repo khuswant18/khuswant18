@@ -67,68 +67,43 @@ khuswant@delhi ~ % whoami
 </tr>
 </table>
 
-Where the Kubescape PRs landed:
+## 🛠️ Tech stack
 
-<p>
-  <a href="https://github.com/kubescape/regolibrary/pulls?q=is%3Apr+author%3Akhuswant18+is%3Amerged"><img src="https://img.shields.io/badge/regolibrary-7%20merged-326CE5?style=for-the-badge&logo=openpolicyagent&logoColor=white"/></a>
-  <a href="https://github.com/kubescape/node-agent/pulls?q=is%3Apr+author%3Akhuswant18+is%3Amerged"><img src="https://img.shields.io/badge/node--agent%20(eBPF)-4%20merged-326CE5?style=for-the-badge&logo=linux&logoColor=white"/></a>
-  <a href="https://github.com/kubescape/kubescape/pulls?q=is%3Apr+author%3Akhuswant18+is%3Amerged"><img src="https://img.shields.io/badge/kubescape%20CLI-4%20merged-326CE5?style=for-the-badge&logo=go&logoColor=white"/></a>
-  <a href="https://github.com/kubescape/operator/pulls?q=is%3Apr+author%3Akhuswant18+is%3Amerged"><img src="https://img.shields.io/badge/operator-1%20merged-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/></a>
-  <a href="https://github.com/kubescape/helm-charts/pulls?q=is%3Apr+author%3Akhuswant18+is%3Amerged"><img src="https://img.shields.io/badge/helm--charts-1%20merged-326CE5?style=for-the-badge&logo=helm&logoColor=white"/></a>
-</p>
+<table align="center">
+<tr><td align="center"><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=ts,js,py,go,cpp,c,html,css&theme=dark" /></td></tr>
+<tr><td align="center"><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,figma&theme=dark" /></td></tr>
+<tr><td align="center"><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,prisma&theme=dark" /></td></tr>
+<tr><td align="center"><b>Databases</b></td><td><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis,supabase&theme=dark" /></td></tr>
+<tr><td align="center"><b>DevOps & Cloud</b></td><td><img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,vercel,cloudflare,linux,bash&theme=dark" /></td></tr>
+<tr><td align="center"><b>Tools</b></td><td><img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm,pnpm&theme=dark" /></td></tr>
+</table>
 
-<details>
-<summary><b>See every PR</b></summary>
-<br/>
-
-- `node-agent` [#926](https://github.com/kubescape/node-agent/pull/926) fixed a lifecycle race in the malware manager
-- `node-agent` [#911](https://github.com/kubescape/node-agent/pull/911) context-based rule filtering in the rule manager
-- `node-agent` [#914](https://github.com/kubescape/node-agent/pull/914) unit tests for the malware, health and node-profile managers
-- `node-agent` [#892](https://github.com/kubescape/node-agent/pull/892) runtime alert path handling
-- `kubescape` [#3802](https://github.com/kubescape/kubescape/pull/3802) made `GetScanningContext` side-effect free
-- `kubescape` [#3665](https://github.com/kubescape/kubescape/pull/3665) OpenTelemetry spans now end on every exit and error path
-- `kubescape` [#3126](https://github.com/kubescape/kubescape/pull/3126) validation for layers and vulnerabilities in `ScanResultReport`
-- `kubescape` [#2744](https://github.com/kubescape/kubescape/pull/2744) naming fixes
-- `regolibrary` [#790](https://github.com/kubescape/regolibrary/pull/790) [#792](https://github.com/kubescape/regolibrary/pull/792) new controls C-0305 and C-0307
-- `regolibrary` [#768](https://github.com/kubescape/regolibrary/pull/768) [#778](https://github.com/kubescape/regolibrary/pull/778) [#787](https://github.com/kubescape/regolibrary/pull/787) Agent Sandbox rules — hardened runtime class, egress policy, resource ceilings
-- `regolibrary` [#795](https://github.com/kubescape/regolibrary/pull/795) [#796](https://github.com/kubescape/regolibrary/pull/796) init/ephemeral container coverage, secrets via `envFrom`
-- `operator` [#418](https://github.com/kubescape/operator/pull/418) ephemeral container support
-- `helm-charts` [#907](https://github.com/kubescape/helm-charts/pull/907) Prometheus OTEL exporter for node-agent
-- `harbor-next` [#955](https://github.com/container-registry/harbor-next/pull/955) goroutine leak in project `ListAll` · [#1023](https://github.com/container-registry/harbor-next/pull/1023) filter preheat scan index by tag
-- `kube-burner` [#1211](https://github.com/kube-burner/kube-burner/pull/1211) docs fix
-
-</details>
-
-<br/>
-
-## Tech stack
-
-<table>
-<tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=ts,js,go,py,c,cpp,java,html,css&theme=dark" /></td></tr>
-<tr><td><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux,figma&theme=dark" /></td></tr>
-<tr><td><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,prisma,graphql&theme=dark" /></td></tr>
-<tr><td><b>Databases</b></td><td><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,supabase&theme=dark" /></td></tr>
-<tr><td><b>Cloud & DevOps</b></td><td><img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws,vercel,cloudflare,nginx,linux,bash&theme=dark" /></td></tr>
-<tr><td><b>Tools</b></td><td><img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm,pnpm&theme=dark" /></td></tr>
-<tr><td><b>AI / ML</b></td><td>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white"/>
+<p align="center"><b>AI / ML</b><br>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OCR%20%2B%20VLM-0EA5E9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PaddleOCR-0062B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
   <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
   <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-</td></tr>
-<tr><td><b>Cloud-native</b></td><td>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+<p align="center"><b>Cloud-Native Security</b><br>
   <img src="https://img.shields.io/badge/Kubescape-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rego%20%2F%20OPA-7D9199?style=for-the-badge&logo=openpolicyagent&logoColor=white"/>
   <img src="https://img.shields.io/badge/eBPF-FF6600?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-</td></tr>
-</table>
+</p>
 
 <br/>
 
