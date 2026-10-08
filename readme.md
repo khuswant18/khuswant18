@@ -5,7 +5,7 @@
 <h1 align="center">Khuswant Rajpurohit</h1>
 
 <p align="center">
-  full-stack & AI engineer &nbsp;·&nbsp; Kubescape (CNCF) contributor &nbsp;·&nbsp; Delhi, India
+  full-stack & AI engineer &nbsp;·&nbsp; Kubescape (CNCF) Member &nbsp;·&nbsp; Delhi, India
 </p>
 
 <p align="center">
